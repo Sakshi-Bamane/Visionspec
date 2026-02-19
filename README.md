@@ -20,33 +20,36 @@ This project provides an AI-powered automated solution to improve accuracy, effi
 ### 🧠 Model Architecture
 
 ▪️Transfer Learning using MobileNetV2
+
 ▪️Convolutional Neural Network (CNN)
+
 ▪️Binary Classification (Sigmoid Activation)
+
 ▪️Binary Cross-Entropy Loss
 
 ### 📊 Dataset
 
-Total Images: 8,500+
+▪️Total Images: 8,500+
 
-Classes: PASS & DEFECT
+▪️Classes: PASS & DEFECT
 
-Addressed class imbalance using class weights
+▪️Addressed class imbalance using class weights
 
 ### 🔄 Data Preprocessing
 
-Image resizing (224x224)
+▪️Image resizing (224x224)
 
-Normalization (pixel scaling 0–1)
+▪️Normalization (pixel scaling 0–1)
 
-Data Augmentation:
+▪️Data Augmentation:
 
-Rotation
+▪️Rotation
 
-Flipping
+▪️Flipping
 
-Zoom
+▪️Zoom
 
-Width/Height shifting
+▪️Width/Height shifting
 
 ### 📈 Model Performance
 
@@ -54,29 +57,29 @@ Achieved ~87% training accuracy
 
 Evaluated using:
 
-Accuracy
+▪️Accuracy
 
-Loss
+▪️Loss
 
-Validation Metrics
+▪️Validation Metrics
 
-Confusion Matrix (analysis stage)
+▪️Confusion Matrix (analysis stage)
 
 ### 🔍 Explainable AI
 
-Implemented Grad-CAM (Gradient-weighted Class Activation Mapping) to:
+▪️Implemented Grad-CAM (Gradient-weighted Class Activation Mapping) to:
 
-Highlight defect regions
+▪️Highlight defect regions
 
-Improve transparency
+▪️Improve transparency
 
-Increase trust in model predictions
+▪️Increase trust in model predictions
 
 ### 🌐 Deployment
 
-Built an interactive Streamlit Web Application
+▪️Built an interactive Streamlit Web Application
 
-Real-time image upload and prediction
+▪️Real-time image upload and prediction
 
 Displays:
 
@@ -88,21 +91,22 @@ Grad-CAM heatmap
 
 ### 🛠️ Tech Stack
 
-Python
+▪️Python
 
-TensorFlow
+▪️TensorFlow
 
-Keras
+▪️Keras
 
-OpenCV
+▪️OpenCV
 
-NumPy
+▪️NumPy
 
-Matplotlib
+▪️Matplotlib
 
-Streamlit
+▪️Streamlit
 
-CNN
+▪️CNN
 
-Transfer Learning
+▪️Transfer Learning
+
 
