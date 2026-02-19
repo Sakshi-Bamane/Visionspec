@@ -109,6 +109,25 @@ Grad-CAM heatmap
 
 ▪️Transfer Learning
 
+### 💡 Key Highlights
+
+✔ End-to-End ML Pipeline
+✔ Transfer Learning Implementation
+✔ Explainable AI Integration
+✔ Real-World Industrial Use Case
+✔ Deployment Ready
+
+### ⭐ Future Improvements
+
+- Multi-class defect classification
+
+- Real-time camera integration
+
+- Edge device optimization
+
+- Model performance tuning
+
+
 
 
 
