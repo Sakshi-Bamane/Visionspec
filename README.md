@@ -110,6 +110,7 @@ Grad-CAM heatmap
 ▪️Transfer Learning
 
 
+'''text
 
 VisionSpec-QC/
 │
@@ -123,3 +124,4 @@ VisionSpec-QC/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
