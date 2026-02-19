@@ -110,3 +110,16 @@ Grad-CAM heatmap
 ▪️Transfer Learning
 
 
+
+VisionSpec-QC/
+│
+├── data/
+├── models/
+├── src/
+│   ├── train.py
+│   ├── gradcam.py
+│   ├── test_gradcam.py
+│
+├── app.py
+├── requirements.txt
+└── README.md
