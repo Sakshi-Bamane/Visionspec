@@ -19,13 +19,10 @@ This project provides an AI-powered automated solution to improve accuracy, effi
 
 ### 🧠 Model Architecture
 
-Transfer Learning using MobileNetV2
-
-Convolutional Neural Network (CNN)
-
-Binary Classification (Sigmoid Activation)
-
-Binary Cross-Entropy Loss
+▪️Transfer Learning using MobileNetV2
+▪️Convolutional Neural Network (CNN)
+▪️Binary Classification (Sigmoid Activation)
+▪️Binary Cross-Entropy Loss
 
 ### 📊 Dataset
 
@@ -108,3 +105,4 @@ Streamlit
 CNN
 
 Transfer Learning
+
